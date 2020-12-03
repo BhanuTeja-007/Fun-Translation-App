@@ -1,0 +1,71 @@
+body{
+    margin:0;
+    background-color: #D1D5DB;
+}
+
+.navigation
+{
+    
+    background-color:#2C3243;
+    padding: 1rem;
+}
+
+.navigation .nav-brand
+{
+    color : #EFEDDC;
+    font-weight: bold;
+    font-size: 3rem;
+    text-align: center;
+}
+
+.hero
+{
+    padding:2rem;
+}
+
+.hero .hero-img
+{
+    max-width: 350px;
+    display: block;
+    margin:auto;
+}
+
+.txt-box
+{
+    margin:auto;
+    width:50%;
+    
+}
+
+textarea
+{
+    border :1px solid #86090A;
+    width: 80%;
+    height: 10vh;
+    display:block;
+    padding: 0.5rem;
+    margin: 1rem;
+    overflow: hidden;
+}
+
+#btn
+{
+  margin: auto;
+  width: 12.5%;
+  padding: 12px;
+  
+}
+
+#btn-translate
+{
+    border :2px solid #86090A;
+    font-weight: 500;
+    padding:0.4rem;
+    background-color: #FBBF24;
+    color: #86090A;
+}
+
+#btn-translate:hover{
+    color:#FFB900;
+    background-color: #86090A;
+}
